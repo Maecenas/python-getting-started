@@ -1,9 +1,0 @@
-[submodule "CS41-The-Python-Programming-Language-Stanford/hangouts"]
-	path = CS41-The-Python-Programming-Language-Stanford/hangouts
-	url = git@github.com:stanfordpython/python-handouts.git
-[submodule "CS41-The-Python-Programming-Language-Stanford/assignments"]
-	path = CS41-The-Python-Programming-Language-Stanford/assignments
-	url = git@github.com:stanfordpython/python-assignments.git
-[submodule "CS41-The-Python-Programming-Language-Stanford/labs"]
-	path = CS41-The-Python-Programming-Language-Stanford/labs
-	url = git@github.com:stanfordpython/python-labs.git
